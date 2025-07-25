@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Fang Yihao"
 author_profile: true
 redirect_from: 
   - /about/
